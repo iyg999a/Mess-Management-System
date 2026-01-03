@@ -1,16 +1,67 @@
-# React + Vite
+# Mess Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A **vibe-coded project** built to explore AI-assisted development while working on a real-world problem.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Overview
 
-## React Compiler
+This project is a **Mess Management System** created to understand how software can help streamline everyday mess/hostel operations such as coordination, organization, and basic workflows.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Instead of following a rigid development plan, this project was intentionally built using a **vibe coding approach**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Objectives
+
+- The focus is on **learning by building**
+- Code is written quickly with strong **AI assistance**
+- Structure and logic evolve naturally during development
+- Exploration and iteration matter more than perfection
+
+- Experiment with **vibe coding**
+- **Maximize the use of AI tools** while building a real-world application
+- Understand how AI can help with:
+  - UI creation
+  - Structuring logic
+  - Faster debugging and iteration
+- Focus more on **learning outcomes** than strict best practices
+
+---
+
+## AI Usage
+
+AI tools were actively used throughout the development process for:
+- Generating UI ideas and layouts
+- Writing and improving code
+- Debugging issues
+- Speeding up development and experimentation
+
+This project is as much about **learning AI-assisted workflows** as it is about the final result.
+
+---
+
+## Tech Stack
+
+- Frontend: React + Vite  
+- Styling: CSS / utility-based styling  
+- Deployment: Vercel  
+
+---
+
+## Code Quality Note
+
+Since this is a **vibe-coded, AI-assisted learning project**:
+- The code may not strictly follow industry standards
+- Clean architecture and optimization were not the primary focus
+- The repository represents an **experimental learning build**, not a production-ready system
+
+
+---
+
+## 👤 Author
+
+**Abhishek Y**  
+Student Project – Mess Management System
+
